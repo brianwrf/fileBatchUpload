@@ -7,7 +7,8 @@
 
 参数1:
 
-    webshell.txt用以存放菜刀php一句话的webshell路径和密码，格式如下：
+    webshell.txt用以存放菜刀php一句话的webshell路径和密码
+    格式如下：
         http://www.example1.com/1.php, 1
         http://www.example2.com/1.php, 1
         http://www.example3.com/1.php, 1
