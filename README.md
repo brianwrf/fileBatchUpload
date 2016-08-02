@@ -1,5 +1,5 @@
 # fileBatchUpload
-基于菜刀PHP一句话实现单个文件批量上传 http://avfisher.win/archives/297
+基于菜刀PHP一句话实现单个文件批量上传
 
 执行命令： 
 
